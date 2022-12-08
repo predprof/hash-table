@@ -1,0 +1,8 @@
+KEY, VALUE
+==========
+alina, 1730
+one, 100
+cup, 36
+victor, 8790
+Hel, 12
+Cau, 34
